@@ -27,7 +27,7 @@ import {
     python,
     java,
     zenit,
- 
+    algorithm,
 
   } from "../assets";
   
@@ -155,5 +155,19 @@ import {
       image: project_logo, // Replace with the actual image import or path
       source_code_link: "https://github.com/scythemenace/NutriVibe/tree/aarav",
     },
+    {
+      name: "Algorithm Research",
+      description:
+        "As part of a team of three, we undertook an extensive exploration into various data structures and algorithms. This project encompassed implementing and benchmarking a wide array of algorithms, ranging from fundamental sorting and searching methods to advanced pathfinding techniques. We covered classic sorting algorithms such as Quick, Merge, Heap, Bubble, Insertion, and Selection sort, and implemented search algorithms including dynamic binary search. For pathfinding, we tackled A*, Dijkstra’s, Bellman-Ford algorithms, as well as breadth-first and depth-first searches (BFS and DFS). The project provided us with valuable insights into the efficiency and practical applications of each algorithm, enhancing our problem-solving skills and understanding of algorithmic strategies in a collaborative environment.",
+        tags: [
+          {
+            name: "python",
+            color: "blue-text-gradient",
+          }
+        ],
+        image: algorithm,
+        source_code_link: "https://github.com/scythemenace/CS2XC3_algorithms_research",
+
+    }
   ]
   export { services, technologies, experiences, projects };

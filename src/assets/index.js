@@ -7,6 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import project_logo from "./nutrivibe-logo.png";
+import algorithm from "./cs161logo.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -22,7 +23,6 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import python from "./tech/python.png";
-
 import java from "./tech/java-logo-1.png";
 import C from "./tech/C.jpg";
 import c from "./tech/c.png";
@@ -71,5 +71,5 @@ export {
   zenit,
   C,
   c,
-  
+  algorithm,
 };
