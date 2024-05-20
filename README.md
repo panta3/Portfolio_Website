@@ -42,6 +42,4 @@ Contributions to this project are welcome! Please consider the following steps:
 - **LinkedIn**: [Aarav Pant](https://www.linkedin.com/in/aaravpant/)
 - **Email**: [aaravpant00@gmail.com](mailto:aaravpant00@gmail.com)
 
-## Acknowledgments
-- Thanks to all the open source libraries and tools that made this project possible.
-- Special thanks to anyone whose code was used or inspired by.
+
