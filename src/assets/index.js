@@ -8,6 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import project_logo from "./nutrivibe-logo.png";
 import algorithm from "./cs161logo.png";
+import gdscIcon from "./gdscIcon.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -30,11 +31,20 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sql from "./tech/sql.jpg";
+import sqlite from './tech/sqlite.png';
+import express from "./tech/express.png";
+import cpp from "./tech/cpp.png";
+import django from "./tech/django.png";
+import firebase from "./tech/firebase.jpg";
+import haskell from "./tech/haskell.png";
+import mysql from "./tech/mysql.jpg";
 import zenit from "./company/zenit.jpg";
-
+import MERN from "./MERN.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -46,7 +56,6 @@ export {
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
@@ -72,4 +81,15 @@ export {
   C,
   c,
   algorithm,
+  gdscIcon,
+  sql,
+  sqlite,
+  express,
+  cpp,
+  django,
+  firebase,
+  haskell,
+  mysql,
+  docker,
+  MERN,
 };

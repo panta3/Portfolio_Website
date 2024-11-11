@@ -48,9 +48,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a second-year Computer Science student at McMaster University, I'm exploring the tech world with passion and enthusiasm.
-        My skill set includes Linux, Git, responsive web design (Bootstrap, Tailwind), front-end development (HTML, CSS, JavaScript, React, React Native), SQL databases, and programming in C, Python, and JavaScript. 
-        I'm keen on connecting with peers in the tech community to explore new possibilities and collaborate on exciting projects.
+As a third-year Computer Science student at McMaster University, I'm deeply committed to expanding my knowledge and technical skills across diverse areas of software development. I have practical experience in front-end and back-end technologies, with a solid foundation in languages like Python, Java, C, C++, JavaScript, and TypeScript. I enjoy working with frameworks and libraries, such as React, Next.js, and Django, and I'm proficient in using tools like Git, GitHub, and VS Code.
+
+My experience spans various projects, from full-stack applications to data manipulation and algorithm research, where I've applied concepts from data structures, machine learning, and software design. I'm passionate about building impactful solutions and am eager to collaborate and innovate within the tech community.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
